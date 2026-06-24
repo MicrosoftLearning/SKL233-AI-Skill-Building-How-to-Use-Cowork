@@ -14,7 +14,7 @@ export default defineConfig({
         text: "Labs",
         items: [
           { text: "Lab 01 · Orientation Through Discovery", link: "/orientation/" },
-          { text: "Lab 02 · Your Weekly Manager Update", link: "/lab-02/" },
+          { text: "Lab 02 · Your Weekly Manager Update", link: "/weekly-update/" },
           { text: "Lab 03 · Coming soon", link: "/lab-03/" },
         ],
       },
@@ -27,7 +27,7 @@ export default defineConfig({
         text: "Labs",
         items: [
           { text: "Lab 01 · Orientation Through Discovery", link: "/orientation/" },
-          { text: "Lab 02 · Your Weekly Manager Update", link: "/lab-02/" },
+          { text: "Lab 02 · Your Weekly Manager Update", link: "/weekly-update/" },
           { text: "Lab 03 · Coming soon", link: "/lab-03/" },
         ],
       },

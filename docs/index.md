@@ -66,7 +66,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
     <span class="lab-card-desc">Get oriented in Copilot Cowork, find your skills, and run a discovery-first dashboard workflow.</span>
     <span class="lab-card-cta">Start lab →</span>
   </a>
-  <a class="lab-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/lab-02/">
+  <a class="lab-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/weekly-update/">
     <span class="lab-card-meta">
       <span class="lab-card-badge">Lab 02</span>
       <span class="lab-card-time">⏱️ 20 min</span>
