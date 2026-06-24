@@ -5,13 +5,9 @@ time: 15
 
 # ✈️ Pre-Flight: Orientation Through Discovery
 
-**Welcome aboard.** This first lab is your pre-flight check: get familiar with Copilot Cowork, find where your skills and controls live, and run your first task — turning a data file into a visual board of open and completed work.
+**Welcome aboard.** This first lab is your pre-flight check: get familiar with Copilot Cowork, find where your skills and controls live, and run your first task - turning a data file into a visual board of open and completed work.
 
-Think of Cowork as your co-pilot. It does the heavy lifting, but you stay in control — it checks in for your approval before it acts.
-
-## The Plan {#the-plan}
-
-Most people meet a new AI tool by typing a prompt and hoping for the best. Copilot Cowork is different — it works across your Microsoft 365 environment, loads skills on demand, and asks for approval before it acts. This lab gets you oriented so you know where everything is *before* you start delegating real work.
+Cowork does the heavy lifting, but you stay in the captain's seat - it checks in for your approval before it acts.
 
 ## What You'll Produce {#what-youll-produce}
 
@@ -34,13 +30,13 @@ It comes with built-in skills, including:
 - **Calendar Management**: Full-spectrum calendar management with classification and automation
 - **Skill Management**: Create, validate, and manage your own personal Cowork skills
 
-You can also add custom skills stored in OneDrive. Cowork asks for your approval before taking most actions — you're always in control.
+You can also add custom skills stored in OneDrive. Cowork asks for your approval before taking most actions - you're always in control.
 
 ## The Scenario {#the-scenario}
 
 You want a quick snapshot of where your work stands: what's open, what's in progress, and what's done. Instead of building a board by hand, you'll point Copilot Cowork at a project tracker, let it do the analysis, and have it produce a visual board plus two communications. Along the way, you'll learn exactly where Cowork keeps its inputs, outputs, skills, and approvals.
 
-You'll use a sample project tracker so everyone gets a predictable result — but you can swap in your own work context anytime to make it immediately relevant to you.
+You'll use a sample project tracker so everyone gets a predictable result - but you can swap in your own work context anytime to make it immediately relevant to you.
 
 ## Lab Assets {#lab-assets}
 
@@ -50,7 +46,8 @@ This lab uses one source file.
 | --- | --- |
 | `project-tracker.csv` | 25 fictional tasks across several workstreams, with columns for status, priority, percent complete, start and due dates, owner, and notes. Statuses are a mix of Completed, In Progress, Not Started, and Blocked, so the board fills out nicely. |
 
-📥 **Download lab assets:** [project-tracker.csv](https://raw.githubusercontent.com/MicrosoftLearning/SKL233-AI-Skill-Building-How-to-Use-Cowork/main/docs/orientation/assets/project-tracker.csv)
+<!-- markdownlint-disable-next-line MD033 -->
+📥 **Download lab assets:** <a href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/project-tracker.csv" download="project-tracker.csv">project-tracker.csv</a>
 
 ## Exercise 1.1 - Find Your Way Around {#exercise1-find-your-way-around}
 
@@ -71,34 +68,34 @@ Before you run anything, learn where the important surfaces live.
 
 1. In the prompt area, select **+** and note the three ways to add context:
 
-    - **Add work context** — reference files, people, emails, and Teams chats from your organization
-    - **Upload images and files** — browse your device
-    - **Attach cloud files** — pick from OneDrive, SharePoint, or Teams
+    - **Add work context** - reference files, people, emails, and Teams chats from your organization
+    - **Upload images and files** - browse your device
+    - **Attach cloud files** - pick from OneDrive, SharePoint, or Teams
 
 1. Look at the **left navigation** under the Cowork tab. This is how you move between your work:
 
     ![Microsoft 365 Copilot showing Cowork navigation](./assets/cowork-navigation.png)
 
-    - **New task** — start a fresh task in a clean conversation
-    - **My tasks** — return to tasks you've already run
-    - **Scheduled** — Review & set up prompts to run automatically on a recurring schedule
-    - **Customize** — manage your plugins and skills, including any custom skills you add
+    - **New task** - start a fresh task in a clean conversation
+    - **My tasks** - return to tasks you've already run
+    - **Scheduled** - Review & set up prompts to run automatically on a recurring schedule
+    - **Customize** - manage your plugins and skills, including any custom skills you add
 
-1. Select **Customize** and then select the **Skills** tab. Browse through the **built-in skills**. These are the skills Cowork can draw on automatically — you don't have to call them by name. Notice skills like **html**, **Communications**, and **Documents**, which you'll see in action shortly.
+1. Select **Customize** and then select the **Skills** tab. Browse through the **built-in skills**. These are the skills Cowork can draw on automatically - you don't have to call them by name. Notice skills like **html**, **Communications**, and **Documents**, which you'll see in action shortly.
 
     ![Microsoft 365 Copilot showing Cowork skills](./assets/skills.png)
 
 > [!TIP]
-> You don't pick skills manually. Cowork loads the right ones on demand based on what you ask — you'll watch this happen in the next exercise.
+> You don't pick skills manually. Cowork loads the right ones on demand based on what you ask - you'll watch this happen in the next exercise.
 
 ## Exercise 1.2 - Run Your First Task {#exercise2-run-first-task}
 
-Now put it together. You'll give Cowork some context to work from, send a task, and watch it build a board, send you a summary email, and draft a Teams update — checking in for your approval as it acts.
+Now put it together. You'll give Cowork some context to work from, send a task, and watch it build a board, send you a summary email, and draft a Teams update - checking in for your approval as it acts.
 
 1. Attach the sample **project-tracker.csv** you downloaded in [Lab Assets](#lab-assets). Drag and drop it into the conversation, or use **+** → **Upload images and files**.
 
     > [!TIP]
-    > **Want to make it real?** Instead of the sample file, point Cowork at your own work: attach a task list, project tracker, or status spreadsheet you already have, or use **+** → **Add work context** to reference a few recent emails or a Teams chat about an ongoing project. The steps are the same — just expect different results.
+    > **Want to make it real?** Instead of the sample file, point Cowork at your own work: attach a task list, project tracker, or status spreadsheet you already have, or use **+** → **Add work context** to reference a few recent emails or a Teams chat about an ongoing project. The steps are the same - just expect different results.
 
 1. Add a couple of new lines after the attachment using **Shift + Enter** to make some space, then paste the following prompt:
 
@@ -107,12 +104,12 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
 
     1. Read through the context I've shared and sort the items into what's open,
        in progress, and done. Call out the few that most need attention.
-    2. Build an interactive HTML Kanban board with three lanes — Open / Needs Action,
-       In Progress / Monitoring, and Done — plus a compact header showing the total
+    2. Build an interactive HTML Kanban board with three lanes - Open / Needs Action,
+       In Progress / Monitoring, and Done - plus a compact header showing the total
        item count, how many are open, how many are done, and the single item that most
        needs attention.
     3. Send me a summary report via email.
-    4. Write a brief Teams update for a project channel. Don't post it — I just want the draft to review.
+    4. Write a brief Teams update for a project channel. Don't post it - I just want the draft to review.
 
     If anything's unclear or missing, ask me one focused question before you start.
     ```
@@ -120,7 +117,7 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
 1. Send the prompt by hitting the white circle with the black arrow pointing up in the bottom-right corner.
 
     > [!NOTE]
-    > Depending on your configuration, Cowork may ask you to approve actions (like sending the email to yourself), may auto-approve them, or may check in on how to handle specific tasks. All of these are normal — just follow the prompts.
+    > Depending on your configuration, Cowork may ask you to approve actions (like sending the email to yourself), may auto-approve them, or may check in on how to handle specific tasks. All of these are normal - just follow the prompts.
 
 1. As Cowork works, watch it **think out loud**. It shows a step-by-step progress log, the skills it loads, and the files it produces. Call out what you see:
 
@@ -156,7 +153,7 @@ You found your way around Copilot Cowork, ran a discovery-first task, and produc
 
 What you saw in action:
 
-✅ **Discovery before action**: You asked Cowork to analyze first, then act — sending your summary and holding the Teams post for your review.
+✅ **Discovery before action**: You asked Cowork to analyze first, then act - sending your summary and holding the Teams post for your review.
 
 ✅ **Skills load on demand**: Cowork showed exactly which skills it used to build the board and the communications.
 
