@@ -49,10 +49,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
 
 <div class="home-section">
 
-## The flights
-
-<!-- markdownlint-disable-next-line MD033 -->
-<p class="home-section-intro">Three hands-on flights. Each one carries the same arc: discover what Cowork can do, execute a real task, and automate what you can.</p>
+## Your flight plan
 
 <!-- markdownlint-disable MD033 -->
 <div class="lab-grid">
@@ -87,6 +84,16 @@ Now imagine getting that finished work back, and how much of your week you'd get
     <span class="lab-card-cta">Start flight →</span>
   </a>
 </div>
+
+<a class="bonus-card" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/learn-cowork-with-cowork/">
+  <span class="bonus-card-emoji">🎓</span>
+  <span class="bonus-card-body">
+    <span class="bonus-card-badge">Optional · take it home</span>
+    <span class="bonus-card-title">Learn Cowork with Cowork</span>
+    <span class="bonus-card-desc">Not a flight, just a bonus. Download a custom skill that teaches you Cowork on your own time, using a real task you bring.</span>
+  </span>
+  <span class="bonus-card-cta">Grab the skill →</span>
+</a>
 <!-- markdownlint-enable MD033 -->
 
 </div>

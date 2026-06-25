@@ -122,5 +122,3 @@ What you saw in action:
 ✅ **Scheduled, not manual**: The update now runs on its own and lands in your inbox each week, ready to forward.
 
 The draft is accurate, but it probably still reads like an assistant wrote it. On your [next flight](/make-it-your-own/) you'll teach Cowork to write in your voice by building your own custom skill.
-
-[← Back to home](/) · [Next flight →](/make-it-your-own/)

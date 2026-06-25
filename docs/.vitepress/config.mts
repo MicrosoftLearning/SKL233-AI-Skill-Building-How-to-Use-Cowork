@@ -18,6 +18,7 @@ export default defineConfig({
           { text: "Flight 03 · Make It Your Own", link: "/make-it-your-own/" },
         ],
       },
+      { text: "Learn Cowork with Cowork", link: "/learn-cowork-with-cowork/" },
     ],
     search: {
       provider: "local",
@@ -29,6 +30,12 @@ export default defineConfig({
           { text: "Flight 01 · Orientation Through Discovery", link: "/orientation/" },
           { text: "Flight 02 · Your Weekly Manager Update", link: "/weekly-update/" },
           { text: "Flight 03 · Make It Your Own", link: "/make-it-your-own/" },
+        ],
+      },
+      {
+        text: "Take it with you",
+        items: [
+          { text: "Learn Cowork with Cowork", link: "/learn-cowork-with-cowork/" },
         ],
       },
     ],

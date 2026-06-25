@@ -119,5 +119,3 @@ What you saw in action:
 ✅ **Skills are yours to shape**: The guided builder turns a short back-and-forth into a reusable skill - no files or code required.
 
 ✅ **One brief, a bundle back**: Hand Cowork a whole outcome and it chains the steps, instead of stopping at a single deliverable.
-
-[← Back to home](/) · [← Previous flight](/weekly-update/)
