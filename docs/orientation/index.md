@@ -5,13 +5,13 @@ time: 15
 
 # ✈️ Pre-Flight: Orientation Through Discovery
 
-**Welcome aboard.** This first lab is your pre-flight check: get familiar with Copilot Cowork, find where your skills and controls live, and run your first task - turning a data file into a visual board of open and completed work.
+**Welcome aboard.** This is your pre-flight check: get familiar with Copilot Cowork, find where your skills and controls live, and run your first task - turning a data file into a visual board of open and completed work.
 
 Cowork does the heavy lifting, but you stay in the captain's seat - it checks in for your approval before it acts.
 
 ## What You'll Produce {#what-youll-produce}
 
-By the end of this lab, Copilot Cowork will have:
+By the end of this flight, Copilot Cowork will have:
 
 - ✅ Analyzed a data file and identified open vs. completed work
 - ✅ Built a self-contained HTML Kanban board you can preview in the conversation
@@ -38,16 +38,16 @@ You want a quick snapshot of where your work stands: what's open, what's in prog
 
 You'll use a sample project tracker so everyone gets a predictable result - but you can swap in your own work context anytime to make it immediately relevant to you.
 
-## Lab Assets {#lab-assets}
+## Flight Assets {#flight-assets}
 
-This lab uses one source file.
+This flight uses one source file.
 
 | File | What it contains |
 | --- | --- |
 | `project-tracker.csv` | 25 fictional tasks across several workstreams, with columns for status, priority, percent complete, start and due dates, owner, and notes. Statuses are a mix of Completed, In Progress, Not Started, and Blocked, so the board fills out nicely. |
 
 <!-- markdownlint-disable-next-line MD033 -->
-📥 **Download lab assets:** <a href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/project-tracker.csv" download="project-tracker.csv">project-tracker.csv</a>
+📥 **Download flight assets:** <a href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/project-tracker.csv" download="project-tracker.csv">project-tracker.csv</a>
 
 ## Exercise 1.1 - Find Your Way Around {#exercise1-find-your-way-around}
 
@@ -92,7 +92,7 @@ Before you run anything, learn where the important surfaces live.
 
 Now put it together. You'll give Cowork some context to work from, send a task, and watch it build a board, send you a summary email, and draft a Teams update - checking in for your approval as it acts.
 
-1. Attach the sample **project-tracker.csv** you downloaded in [Lab Assets](#lab-assets). Drag and drop it into the conversation, or use **+** → **Upload images and files**.
+1. Attach the sample **project-tracker.csv** you downloaded in [Flight Assets](#flight-assets). Drag and drop it into the conversation, or use **+** → **Upload images and files**.
 
     > [!TIP]
     > **Want to make it real?** Instead of the sample file, point Cowork at your own work: attach a task list, project tracker, or status spreadsheet you already have, or use **+** → **Add work context** to reference a few recent emails or a Teams chat about an ongoing project. The steps are the same - just expect different results.

@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "AI Skill Building with Cowork",
   description:
-    "Hands-on labs for building real AI skills with Microsoft 365 Copilot Cowork.",
+    "Hands-on flights for building real AI skills with Microsoft 365 Copilot Cowork.",
   base: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/",
   cleanUrls: true,
   head: [["link", { rel: "icon", href: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/favicon.ico" }]],
@@ -11,11 +11,11 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       {
-        text: "Labs",
+        text: "Flights",
         items: [
-          { text: "Lab 01 · Orientation Through Discovery", link: "/orientation/" },
-          { text: "Lab 02 · Your Weekly Manager Update", link: "/weekly-update/" },
-          { text: "Lab 03 · Coming soon", link: "/lab-03/" },
+          { text: "Flight 01 · Orientation Through Discovery", link: "/orientation/" },
+          { text: "Flight 02 · Your Weekly Manager Update", link: "/weekly-update/" },
+          { text: "Flight 03 · Make It Your Own", link: "/make-it-your-own/" },
         ],
       },
     ],
@@ -24,11 +24,11 @@ export default defineConfig({
     },
     sidebar: [
       {
-        text: "Labs",
+        text: "Flights",
         items: [
-          { text: "Lab 01 · Orientation Through Discovery", link: "/orientation/" },
-          { text: "Lab 02 · Your Weekly Manager Update", link: "/weekly-update/" },
-          { text: "Lab 03 · Coming soon", link: "/lab-03/" },
+          { text: "Flight 01 · Orientation Through Discovery", link: "/orientation/" },
+          { text: "Flight 02 · Your Weekly Manager Update", link: "/weekly-update/" },
+          { text: "Flight 03 · Make It Your Own", link: "/make-it-your-own/" },
         ],
       },
     ],

@@ -188,3 +188,88 @@ a.lab-card:hover {
 .lab-card--soon .lab-card-cta {
   color: var(--vp-c-text-3);
 }
+
+/* Path chooser (Lab 03) */
+.path-chooser {
+  margin: 1.75rem 0;
+}
+
+.path-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.path-bubble {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+  width: 100%;
+  text-align: left;
+  padding: 1.6rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 18px;
+  background: var(--vp-c-bg-soft);
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.path-bubble:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.path-bubble-emoji {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.path-bubble-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.path-bubble-desc {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+  flex: 1;
+}
+
+.path-bubble-cta {
+  margin-top: 0.2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+}
+
+.path-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  background: var(--vp-c-bg-soft);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.path-back:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+
+.path-body > :first-child {
+  margin-top: 0;
+}
+
