@@ -63,6 +63,6 @@ outline: false
 
 <div class="takeaway-share">
   <span class="takeaway-share-icon">🤝</span>
-  <p><strong>Found it useful?</strong> Pass the skill along to a teammate who'd get value from it. The best way to spread good Cowork habits is to hand someone the thing that taught you.</p>
+  <p><strong>Found it useful?</strong> Pass the skill along to a teammate who'd get value from it.</p>
 </div>
 <!-- markdownlint-enable MD033 -->
