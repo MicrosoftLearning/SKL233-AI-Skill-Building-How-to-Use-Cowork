@@ -80,7 +80,7 @@ Now imagine getting that finished work back, and how much of your week you'd get
     </span>
     <span class="lab-card-emoji">🚀</span>
     <span class="lab-card-title">Make It Your Own</span>
-    <span class="lab-card-desc">Take the controls and build your own custom skill with Cowork's guided builder.</span>
+    <span class="lab-card-desc">Take the controls and pick your path: build your own custom skill, or hand Cowork a whole job to run.</span>
     <span class="lab-card-cta">Start flight →</span>
   </a>
 </div>
