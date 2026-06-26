@@ -36,7 +36,7 @@ What's the first thing you'd delegate? A few to get you thinking:
 - Triaging and clearing your inbox
 - Pulling meeting prep together from a dozen scattered threads
 
-Now imagine getting that finished work back, and how much of your week you'd get back with it. That's the shift Copilot Cowork is built for: you describe the outcome, it does the legwork across your Microsoft 365 environment, and you stay in control of what ships.
+Now imagine getting that finished work back, and how much of your week you'd get back with it. That's the shift Copilot Cowork is built for: you describe the outcome, it does the legwork across your Microsoft 365 environment, and you stay in control.
 
 <div class="callout-bubble">
 <span class="callout-bubble-icon">👋</span>

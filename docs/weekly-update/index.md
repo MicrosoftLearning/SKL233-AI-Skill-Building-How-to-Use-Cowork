@@ -22,7 +22,7 @@ By the end of this flight, Copilot Cowork will have:
 
 Every week, or right before each 1:1, you stitch together what you actually accomplished: scrolling sent mail, checking off tasks, remembering which meetings mattered. It's useful for your manager but tedious to assemble.
 
-Cowork can reconstruct it from your Microsoft 365 activity in one pass. Then you can put it on a schedule and just review what it leaves waiting.
+Cowork can reconstruct it from your Microsoft 365 activity in one pass. Then you can put it on a schedule so a fresh draft lands in your inbox each week, ready for you to skim and forward.
 
 ## Exercise 2.1 - Reconstruct Your Week {#exercise1-reconstruct-your-week}
 
@@ -70,7 +70,10 @@ First, have Cowork rebuild what you accomplished. This is your baseline draft.
 
     ![Copilot Cowork showing a drafted email with Send and Cancel options](./assets/send-cancel.png)
 
-    For now, select **Cancel**. In the next exercise you'll put this on a schedule so Cowork sends it to you automatically each week.
+    For now, select **Cancel**. You'll schedule this same prompt in the next exercise.
+
+    > [!NOTE]
+    > Choosing **Cancel** discards the draft, it isn't saved anywhere. If we asked Cowork to *draft* an email instead, it would save to your Outlook **Drafts** folder.
 
 ## Exercise 2.2 - Put It on Autopilot {#exercise2-put-it-on-autopilot}
 
