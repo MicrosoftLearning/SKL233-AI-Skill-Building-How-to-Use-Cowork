@@ -4,7 +4,7 @@ layout: home
 hero:
   name: AI Skill Building with Cowork
   text: Learn by doing
-  tagline: Hands-on flights for delegating real work to Microsoft 365 Copilot Cowork.
+  tagline: Hands-on, guided exercises for delegating real work to Microsoft 365 Copilot Cowork.
   image:
     src: /CoworkIcon.png
     alt: Microsoft 365 Copilot Cowork
