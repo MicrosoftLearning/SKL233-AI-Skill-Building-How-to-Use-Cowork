@@ -6,7 +6,7 @@ export default defineConfig({
     "Hands-on flights for building real AI skills with Microsoft 365 Copilot Cowork.",
   base: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/",
   cleanUrls: true,
-  head: [["link", { rel: "icon", href: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/SKL233-AI-Skill-Building-How-to-Use-Cowork/CoworkIcon.png" }]],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
@@ -19,6 +19,7 @@ export default defineConfig({
         ],
       },
       { text: "Learn Cowork with Cowork", link: "/learn-cowork-with-cowork/" },
+      { text: "Resources", link: "/resources/" },
     ],
     search: {
       provider: "local",
@@ -36,6 +37,7 @@ export default defineConfig({
         text: "Take it with you",
         items: [
           { text: "Learn Cowork with Cowork", link: "/learn-cowork-with-cowork/" },
+          { text: "Resources", link: "/resources/" },
         ],
       },
     ],
@@ -45,5 +47,8 @@ export default defineConfig({
         link: "https://github.com/MicrosoftLearning/SKL233-AI-Skill-Building-How-to-Use-Cowork/",
       },
     ],
+    footer: {
+      copyright: "© 2025 Microsoft. All rights reserved.",
+    },
   },
 });

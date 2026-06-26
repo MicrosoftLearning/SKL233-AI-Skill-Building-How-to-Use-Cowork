@@ -5,6 +5,9 @@ hero:
   name: AI Skill Building with Cowork
   text: Learn by doing
   tagline: Hands-on flights for delegating real work to Microsoft 365 Copilot Cowork.
+  image:
+    src: /CoworkIcon.png
+    alt: Microsoft 365 Copilot Cowork
   actions:
     - theme: brand
       text: Start the first flight
@@ -93,6 +96,15 @@ Now imagine getting that finished work back, and how much of your week you'd get
     <span class="bonus-card-desc">Not a flight, just a bonus. Download a custom skill that teaches you Cowork on your own time, using a real task you bring.</span>
   </span>
   <span class="bonus-card-cta">Grab the skill →</span>
+</a>
+
+<a class="resource-bubble" href="/SKL233-AI-Skill-Building-How-to-Use-Cowork/resources/">
+  <span class="resource-bubble-icon">📚</span>
+  <span class="resource-bubble-text">
+    <span class="resource-bubble-title">Resources</span>
+    <span class="resource-bubble-desc">Official docs and guides to go deeper after the flights.</span>
+  </span>
+  <span class="resource-bubble-cta">View →</span>
 </a>
 <!-- markdownlint-enable MD033 -->
 
