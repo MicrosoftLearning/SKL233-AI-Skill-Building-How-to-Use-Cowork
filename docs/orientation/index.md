@@ -102,7 +102,7 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
     ```text
     Help me get a clear picture of where this project stands.
 
-    1. Read through the context I've shared and sort the items into what's open,
+    1. Read through the file I've shared and sort the items into what's open,
        in progress, and done. Call out the few that most need attention.
     2. Build an interactive HTML Kanban board with three lanes - Open / Needs Action,
        In Progress / Monitoring, and Done - plus a compact header showing the total
@@ -125,7 +125,12 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
     - Which files appear in the **output** for you to download or preview
     - Any **references** it used from your work context
 
-        ![Microsoft 365 Copilot showing steps, outputs, references, and skills used](./assets/steps-skills-shown.png)
+        ![Cowork showing steps, outputs, references, and skills used](./assets/steps-skills-shown.png)
+
+    > [!NOTE]
+    > The **thinking indicator** lets you know when Cowork is breaking your request into steps and working through them, narrating as it goes. Behind it is [Work IQ](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq), the intelligence layer that reasons across your emails, meetings, files, chats, and calendar to find what's relevant, within your organization's permissions.
+    >
+    > ![Cowork thinking indicator](./assets/thinking.png)
 
 1. When Cowork finishes, open the **HTML board** it produced to preview it directly in the conversation.
 
