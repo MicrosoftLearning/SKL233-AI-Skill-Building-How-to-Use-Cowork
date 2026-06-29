@@ -28,6 +28,9 @@ Cowork can reconstruct it from your Microsoft 365 activity in one pass. Then you
 
 First, have Cowork rebuild what you accomplished. This is your baseline draft.
 
+> [!NOTE]
+> Cowork adapts to the context it has, so it won't behave identically for everyone. Depending on what it already knows - or what permissions are already set up - it may or may not open an action window or ask a clarifying question before it runs. If your experience doesn't match the steps exactly, that's expected, not a mistake.
+
 1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/), select **Cowork**, and start a **New task**.
 
     ![Copilot Cowork with the New task option selected](./assets/new-task.png)

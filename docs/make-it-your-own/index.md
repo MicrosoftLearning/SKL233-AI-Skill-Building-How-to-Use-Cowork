@@ -14,6 +14,9 @@ Pick one path below based on what's most useful to you. Each is self-contained a
 
 Select a path to expand it. You can switch back anytime.
 
+> [!NOTE]
+> Cowork adapts to the context it has, so it won't behave identically for everyone. Depending on what it already knows - or what permissions are already set up - it may or may not open an action window or ask a clarifying question before it runs. If your experience doesn't match the steps exactly, that's expected, not a mistake.
+
 <!-- markdownlint-disable MD033 -->
 <PathChooser>
 <template #pathA>

@@ -92,6 +92,9 @@ Before you run anything, learn where the important surfaces live.
 
 Now put it together. You'll give Cowork some context to work from, send a task, and watch it build a board, send you a summary email, and draft a Teams update - checking in for your approval as it acts.
 
+> [!NOTE]
+> Cowork adapts to the context it has, so it won't behave identically for everyone. Depending on what it already knows - or what permissions are already set up - it may or may not open an action window or ask a clarifying question before it runs. If your experience doesn't match the steps exactly, that's expected, not a mistake.
+
 1. Attach the sample **project-tracker.csv** you downloaded in [Flight Assets](#flight-assets). Drag and drop it into the conversation, or use **+** → **Upload images and files**.
 
     > [!TIP]
@@ -115,9 +118,6 @@ Now put it together. You'll give Cowork some context to work from, send a task, 
     ```
 
 1. Send the prompt by hitting the white circle with the black arrow pointing up in the bottom-right corner.
-
-    > [!NOTE]
-    > Depending on your configuration, Cowork may ask you to approve actions (like sending the email to yourself), may auto-approve them, or may check in on how to handle specific tasks. All of these are normal - just follow the prompts.
 
 1. As Cowork works, watch it **think out loud**. It shows a step-by-step progress log, the skills it loads, and the files it produces. Call out what you see:
 
