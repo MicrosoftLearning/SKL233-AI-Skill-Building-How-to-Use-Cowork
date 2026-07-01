@@ -41,5 +41,14 @@ outline: false
       <span class="resource-link-meta">Microsoft Learn · Licensing</span>
     </a>
   </div>
+
+  <h3 class="resource-group-title">🔗 Connect your apps</h3>
+  <p class="home-section-intro">Did you know you can connect Dynamics 365 to Cowork? Find out more information below.</p>
+  <div class="resource-grid">
+    <a class="resource-link" href="https://learn.microsoft.com/en-us/dynamics365/sales/use-copilot-cowork-sales-skills" target="_blank" rel="noreferrer">
+      <span class="resource-link-title">Use Dynamics 365 Sales skills in Copilot Cowork</span>
+      <span class="resource-link-meta">Microsoft Learn · Documentation</span>
+    </a>
+  </div>
 </div>
 <!-- markdownlint-enable MD033 -->
